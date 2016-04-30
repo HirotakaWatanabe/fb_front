@@ -8,7 +8,7 @@
 .content{
 	width: 700px;
 	height: 600px;
-	background-color: ghostwhite;
+	background-color: #fcfdfd;
 	margin: 0 auto;
 }
 .TBlogo{
@@ -31,4 +31,71 @@
 	text-align: center;
 	font-size: 30px;
 	line-height: 88px;
+	color: white;
+	box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
+	text-decoration: none;
+}
+.pushbutton2{
+
+	width: 288px;
+	height: 88px;
+	background-color: #F4B04D;
+	border-radius: 20px;
+	margin: 50px 30px;
+	text-align: center;
+	font-size: 30px;
+	line-height: 88px;
+	color: white;
+	box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
+	text-decoration: none;
+	float: left;
+}
+.pushbutton3{
+
+	width: 288px;
+	height: 88px;
+	background-color: #F4B04D;
+	border-radius: 20px;
+	margin: 50px 30px;
+	text-align: center;
+	font-size: 30px;
+	line-height: 88px;
+	color: white;
+	box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
+	text-decoration: none;
+	float: left;
+
+}
+.pushbutton:hover{
+	background-color: white;
+	color: #F4B04D;
+}
+.pushbutton2:hover{
+	background-color: white;
+	color: #F4B04D;
+}
+.pushbutton3:hover{
+	background-color: white;
+	color: #F4B04D;
+}
+a{
+	text-decoration: none;
+}
+.pushtext:hover{
+	color: #F4B04D;
+}
+.pushtext{
+	color:white;
+}
+.pushtext2:hover{
+	color: #F4B04D;
+}
+.pushtext2{
+	color:white;
+}
+.pushtext3:hover{
+	color: #F4B04D;
+}
+.pushtext3{
+	color:white;
 }
