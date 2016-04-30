@@ -1,0 +1,34 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.main{
+	width: 100%;
+}
+.content{
+	width: 700px;
+	height: 600px;
+	background-color: ghostwhite;
+	margin: 0 auto;
+}
+.TBlogo{
+	width: 500px;
+	height: 300px;
+	background-image: url(../images/TBLogo/TB500x300.png);
+	margin: 0 auto;
+}
+.textbox{
+	text-align: center;
+	margin-top: 40px;
+}
+.pushbutton{
+
+	width: 288px;
+	height: 88px;
+	background-color: #F4B04D;
+	border-radius: 20px;
+	margin: 50px auto;
+	text-align: center;
+	font-size: 30px;
+	line-height: 88px;
+}
